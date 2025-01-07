@@ -58,3 +58,17 @@ nameGET, Model model)
    la correspondance entre les classed ayant l'annotation 'Entity' et notre base de donnees puis cree une table
    pour chaque classe ayant cette annotation si la table n'existe pas deja. Hibernate prend en 
    charge toutes les tâches liées à la creation de ces objets sur la base des mécanismes et des modèles O/R appropriés.
+
+#### Etape 19
+#### Etape 20
+On fait une requete qui affiche tous les elements de la table Addresse.
+Oui on y voit tout le contenu du fichier data.sql
+![alt text](src/main/resources/static/img.png "")
+
+#### Etape 23
+@Autowired est une annotation de Spring Framework qui permet l'injection de dépendances
+pour les classes Java. Elle permet à Spring d'injecter 
+automatiquement des dépendances dans la classe, éliminant ainsi 
+le besoin d'une configuration manuelle. Cette annotation peut être 
+utilisée pour injecter des dépendances dans les champs, 
+les méthodes et les constructeurs.

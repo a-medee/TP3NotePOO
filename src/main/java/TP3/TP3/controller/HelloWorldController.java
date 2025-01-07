@@ -13,7 +13,7 @@ public class HelloWorldController
                            nameGET, Model model)
     {
         model.addAttribute("nomTemplate", nameGET);
-        return "greeting";
+        return "html/greeting";
     }
 
     @GetMapping("/")
@@ -21,6 +21,6 @@ public class HelloWorldController
                                    nameGET, Model model)
     {
         model.addAttribute("nomTemplate", nameGET);
-        return "greeting";
+        return "html/greeting";
     }
 }

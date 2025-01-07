@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Blog</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen" th:href="@{/resources/css/bootstrap.min.css}"/>
+</head>
+<div th:insert="html/header">
+
+</div>
+<div class="container">
+    <div class="hero-unit">
+        <h1>Test</h1>
+        <p>
+            Welcome to the Spring MVC Quickstart application!
+            Get started quickly by signing up.
+        </p>
+        <p>
+            <a href="/signup" th:href="@{/signup}" class="btn btn-large btn-success">Sign up</a>
+        </p>
+    </div>
+    <div th:insert="html/footer :: footer"> </div>
+</div>
+</html>

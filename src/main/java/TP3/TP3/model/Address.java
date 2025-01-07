@@ -21,6 +21,14 @@ public class Address
         return creation;
     }
 
+    public String getAuthor() {
+        return author;
+    }
+
+    public void setAuthor(String author) {
+        this.author = author;
+    }
+
     public void setCreation(Date creation) {
         this.creation = creation;
     }
@@ -38,4 +46,5 @@ public class Address
     private int id;
     private Date creation;
     private String content;
+    private String author;
 }
