@@ -72,3 +72,9 @@ automatiquement des dépendances dans la classe, éliminant ainsi
 le besoin d'une configuration manuelle. Cette annotation peut être 
 utilisée pour injecter des dépendances dans les champs, 
 les méthodes et les constructeurs.
+
+#### Etape 30
+Pour ajouter Bootstrap dans le projet, il faut inclure le lien vers le style css de bootstrap
+dans le fichier concerne. Ensuite modifier au besoin la mise en forme du fichier grace a
+un style css personnel. 
+
