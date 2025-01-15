@@ -1,0 +1,349 @@
+<response>
+<city>
+    <insee>72100</insee>
+    <cp>72270</cp>
+    <name>Courcelles-la-Forêt</name>
+    <latitude>47.7944</latitude>
+    <longitude>-0.0241</longitude>
+    <altitude>58</altitude>
+</city>
+<update>2025-01-15T16:12:09+01:00</update>
+<forecast>
+<item>
+    <insee>72100</insee>
+    <cp>72270</cp>
+    <latitude>47.7944</latitude>
+    <longitude>-0.0241</longitude>
+    <day>0</day>
+    <datetime>2025-01-15T01:00:00+0100</datetime>
+    <wind10m>10</wind10m>
+    <gust10m>26</gust10m>
+    <dirwind10m>42</dirwind10m>
+    <rr10>0.1</rr10>
+    <rr1>0.1</rr1>
+    <probarain>40</probarain>
+    <weather>3</weather>
+    <tmin>-2</tmin>
+    <tmax>6</tmax>
+    <sun_hours>2</sun_hours>
+    <etp>0</etp>
+    <probafrost>30</probafrost>
+    <probafog>60</probafog>
+    <probawind70>0</probawind70>
+    <probawind100>0</probawind100>
+    <gustx>26</gustx>
+</item>
+<item>
+    <insee>72100</insee>
+    <cp>72270</cp>
+    <latitude>47.7944</latitude>
+    <longitude>-0.0241</longitude>
+    <day>1</day>
+    <datetime>2025-01-16T01:00:00+0100</datetime>
+    <wind10m>10</wind10m>
+    <gust10m>36</gust10m>
+    <dirwind10m>64</dirwind10m>
+    <rr10>0</rr10>
+    <rr1>0</rr1>
+    <probarain>10</probarain>
+    <weather>3</weather>
+    <tmin>1</tmin>
+    <tmax>7</tmax>
+    <sun_hours>6</sun_hours>
+    <etp>0</etp>
+    <probafrost>20</probafrost>
+    <probafog>30</probafog>
+    <probawind70>0</probawind70>
+    <probawind100>0</probawind100>
+    <gustx>36</gustx>
+</item>
+<item>
+    <insee>72100</insee>
+    <cp>72270</cp>
+    <latitude>47.7944</latitude>
+    <longitude>-0.0241</longitude>
+    <day>2</day>
+    <datetime>2025-01-17T01:00:00+0100</datetime>
+    <wind10m>10</wind10m>
+    <gust10m>18</gust10m>
+    <dirwind10m>124</dirwind10m>
+    <rr10>0</rr10>
+    <rr1>0</rr1>
+    <probarain>0</probarain>
+    <weather>0</weather>
+    <tmin>-2</tmin>
+    <tmax>5</tmax>
+    <sun_hours>9</sun_hours>
+    <etp>0</etp>
+    <probafrost>70</probafrost>
+    <probafog>10</probafog>
+    <probawind70>0</probawind70>
+    <probawind100>0</probawind100>
+    <gustx>18</gustx>
+</item>
+<item>
+    <insee>72100</insee>
+    <cp>72270</cp>
+    <latitude>47.7944</latitude>
+    <longitude>-0.0241</longitude>
+    <day>3</day>
+    <datetime>2025-01-18T01:00:00+0100</datetime>
+    <wind10m>5</wind10m>
+    <gust10m>18</gust10m>
+    <dirwind10m>66</dirwind10m>
+    <rr10>0</rr10>
+    <rr1>0</rr1>
+    <probarain>0</probarain>
+    <weather>0</weather>
+    <tmin>-2</tmin>
+    <tmax>4</tmax>
+    <sun_hours>9</sun_hours>
+    <etp>0</etp>
+    <probafrost>70</probafrost>
+    <probafog>10</probafog>
+    <probawind70>0</probawind70>
+    <probawind100>0</probawind100>
+    <gustx>18</gustx>
+</item>
+<item>
+    <insee>72100</insee>
+    <cp>72270</cp>
+    <latitude>47.7944</latitude>
+    <longitude>-0.0241</longitude>
+    <day>4</day>
+    <datetime>2025-01-19T01:00:00+0100</datetime>
+    <wind10m>10</wind10m>
+    <gust10m>15</gust10m>
+    <dirwind10m>161</dirwind10m>
+    <rr10>0</rr10>
+    <rr1>0</rr1>
+    <probarain>20</probarain>
+    <weather>3</weather>
+    <tmin>0</tmin>
+    <tmax>6</tmax>
+    <sun_hours>6</sun_hours>
+    <etp>0</etp>
+    <probafrost>70</probafrost>
+    <probafog>20</probafog>
+    <probawind70>0</probawind70>
+    <probawind100>0</probawind100>
+    <gustx>15</gustx>
+</item>
+<item>
+    <insee>72100</insee>
+    <cp>72270</cp>
+    <latitude>47.7944</latitude>
+    <longitude>-0.0241</longitude>
+    <day>5</day>
+    <datetime>2025-01-20T01:00:00+0100</datetime>
+    <wind10m>10</wind10m>
+    <gust10m>20</gust10m>
+    <dirwind10m>180</dirwind10m>
+    <rr10>0.2</rr10>
+    <rr1>0.2</rr1>
+    <probarain>50</probarain>
+    <weather>3</weather>
+    <tmin>2</tmin>
+    <tmax>7</tmax>
+    <sun_hours>4</sun_hours>
+    <etp>0</etp>
+    <probafrost>70</probafrost>
+    <probafog>30</probafog>
+    <probawind70>0</probawind70>
+    <probawind100>0</probawind100>
+    <gustx>20</gustx>
+</item>
+<item>
+    <insee>72100</insee>
+    <cp>72270</cp>
+    <latitude>47.7944</latitude>
+    <longitude>-0.0241</longitude>
+    <day>6</day>
+    <datetime>2025-01-21T01:00:00+0100</datetime>
+    <wind10m>10</wind10m>
+    <gust10m>21</gust10m>
+    <dirwind10m>183</dirwind10m>
+    <rr10>0.4</rr10>
+    <rr1>3.2</rr1>
+    <probarain>60</probarain>
+    <weather>40</weather>
+    <tmin>2</tmin>
+    <tmax>7</tmax>
+    <sun_hours>4</sun_hours>
+    <etp>0</etp>
+    <probafrost>70</probafrost>
+    <probafog>30</probafog>
+    <probawind70>0</probawind70>
+    <probawind100>0</probawind100>
+    <gustx>21</gustx>
+</item>
+<item>
+    <insee>72100</insee>
+    <cp>72270</cp>
+    <latitude>47.7944</latitude>
+    <longitude>-0.0241</longitude>
+    <day>7</day>
+    <datetime>2025-01-22T01:00:00+0100</datetime>
+    <wind10m>10</wind10m>
+    <gust10m>24</gust10m>
+    <dirwind10m>64</dirwind10m>
+    <rr10>0.2</rr10>
+    <rr1>0.2</rr1>
+    <probarain>60</probarain>
+    <weather>3</weather>
+    <tmin>2</tmin>
+    <tmax>7</tmax>
+    <sun_hours>4</sun_hours>
+    <etp>0</etp>
+    <probafrost>70</probafrost>
+    <probafog>0</probafog>
+    <probawind70>0</probawind70>
+    <probawind100>0</probawind100>
+    <gustx>31</gustx>
+</item>
+<item>
+    <insee>72100</insee>
+    <cp>72270</cp>
+    <latitude>47.7944</latitude>
+    <longitude>-0.0241</longitude>
+    <day>8</day>
+    <datetime>2025-01-23T01:00:00+0100</datetime>
+    <wind10m>15</wind10m>
+    <gust10m>25</gust10m>
+    <dirwind10m>111</dirwind10m>
+    <rr10>0</rr10>
+    <rr1>0</rr1>
+    <probarain>50</probarain>
+    <weather>3</weather>
+    <tmin>1</tmin>
+    <tmax>7</tmax>
+    <sun_hours>4</sun_hours>
+    <etp>0</etp>
+    <probafrost>70</probafrost>
+    <probafog>0</probafog>
+    <probawind70>0</probawind70>
+    <probawind100>0</probawind100>
+    <gustx>25</gustx>
+</item>
+<item>
+    <insee>72100</insee>
+    <cp>72270</cp>
+    <latitude>47.7944</latitude>
+    <longitude>-0.0241</longitude>
+    <day>9</day>
+    <datetime>2025-01-24T01:00:00+0100</datetime>
+    <wind10m>15</wind10m>
+    <gust10m>30</gust10m>
+    <dirwind10m>129</dirwind10m>
+    <rr10>0.4</rr10>
+    <rr1>0.4</rr1>
+    <probarain>60</probarain>
+    <weather>3</weather>
+    <tmin>2</tmin>
+    <tmax>6</tmax>
+    <sun_hours>4</sun_hours>
+    <etp>1</etp>
+    <probafrost>70</probafrost>
+    <probafog>0</probafog>
+    <probawind70>10</probawind70>
+    <probawind100>0</probawind100>
+    <gustx>37</gustx>
+</item>
+<item>
+    <insee>72100</insee>
+    <cp>72270</cp>
+    <latitude>47.7944</latitude>
+    <longitude>-0.0241</longitude>
+    <day>10</day>
+    <datetime>2025-01-25T01:00:00+0100</datetime>
+    <wind10m>15</wind10m>
+    <gust10m>27</gust10m>
+    <dirwind10m>132</dirwind10m>
+    <rr10>0.6</rr10>
+    <rr1>0.6</rr1>
+    <probarain>60</probarain>
+    <weather>40</weather>
+    <tmin>2</tmin>
+    <tmax>6</tmax>
+    <sun_hours>4</sun_hours>
+    <etp>0</etp>
+    <probafrost>70</probafrost>
+    <probafog>0</probafog>
+    <probawind70>0</probawind70>
+    <probawind100>0</probawind100>
+    <gustx>34</gustx>
+</item>
+<item>
+    <insee>72100</insee>
+    <cp>72270</cp>
+    <latitude>47.7944</latitude>
+    <longitude>-0.0241</longitude>
+    <day>11</day>
+    <datetime>2025-01-26T01:00:00+0100</datetime>
+    <wind10m>15</wind10m>
+    <gust10m>24</gust10m>
+    <dirwind10m>146</dirwind10m>
+    <rr10>0.8</rr10>
+    <rr1>0.8</rr1>
+    <probarain>60</probarain>
+    <weather>40</weather>
+    <tmin>2</tmin>
+    <tmax>6</tmax>
+    <sun_hours>4</sun_hours>
+    <etp>1</etp>
+    <probafrost>70</probafrost>
+    <probafog>0</probafog>
+    <probawind70>0</probawind70>
+    <probawind100>0</probawind100>
+    <gustx>34</gustx>
+</item>
+<item>
+    <insee>72100</insee>
+    <cp>72270</cp>
+    <latitude>47.7944</latitude>
+    <longitude>-0.0241</longitude>
+    <day>12</day>
+    <datetime>2025-01-27T01:00:00+0100</datetime>
+    <wind10m>15</wind10m>
+    <gust10m>25</gust10m>
+    <dirwind10m>169</dirwind10m>
+    <rr10>0</rr10>
+    <rr1>0</rr1>
+    <probarain>50</probarain>
+    <weather>3</weather>
+    <tmin>2</tmin>
+    <tmax>6</tmax>
+    <sun_hours>4</sun_hours>
+    <etp>1</etp>
+    <probafrost>70</probafrost>
+    <probafog>0</probafog>
+    <probawind70>10</probawind70>
+    <probawind100>0</probawind100>
+    <gustx>25</gustx>
+</item>
+<item>
+    <insee>72100</insee>
+    <cp>72270</cp>
+    <latitude>47.7944</latitude>
+    <longitude>-0.0241</longitude>
+    <day>13</day>
+    <datetime>2025-01-28T01:00:00+0100</datetime>
+    <wind10m>15</wind10m>
+    <gust10m>23</gust10m>
+    <dirwind10m>172</dirwind10m>
+    <rr10>1.8</rr10>
+    <rr1>1.8</rr1>
+    <probarain>60</probarain>
+    <weather>40</weather>
+    <tmin>3</tmin>
+    <tmax>7</tmax>
+    <sun_hours>4</sun_hours>
+    <etp>1</etp>
+    <probafrost>30</probafrost>
+    <probafog>0</probafog>
+    <probawind70>10</probawind70>
+    <probawind100>0</probawind100>
+    <gustx>33</gustx>
+</item>
+</forecast>
+</response>
