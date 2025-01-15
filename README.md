@@ -78,3 +78,8 @@ Pour ajouter Bootstrap dans le projet, il faut inclure le lien vers le style css
 dans le fichier concerne. Ensuite modifier au besoin la mise en forme du fichier grace a
 un style css personnel. 
 
+Mon token https://api.meteo-concept.com/api/forecast/daily?token=15f15c6e2d1849cd6a60a7893e599814db1e1346b952174551f009664637b039
+
+https://adresse.data.gouv.fr/outils/api-doc/adresse
+https://guides.data.gouv.fr/reutiliser-des-donnees/utiliser-les-api-geographiques
+https://spring.io/guides/gs/consuming-rest#initial
