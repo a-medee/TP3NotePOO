@@ -25,9 +25,9 @@
 
 
 <div class="container mt-5">
-    <h1 class="text-center mb-4">Prévisions: <span th:text="${city.name}"></span></h1>
+    <h1 class="text-center mb-4">Ville: <span th:text="${city.name}"></span></h1>
     <div th:if="${weatherData}">
-        <div class="card mb-4">
+        <div class="card mb-4" style="width: 300px">
             <div class="card-body">
                 <p class="card-text">
                     <strong>Latitude:</strong> <span th:text="${city.latitude}"></span><br>
@@ -38,7 +38,7 @@
         </div>
         <p><strong>Date:</strong> <span th:text="${todayDate}"></span></p>
 
-        <h3 class="mb-3">Forecast:</h3>
+        <h3 class="mb-3">Prévisions:</h3>
         <div class="row">
             <div th:each="forecast : ${weatherData.forecast}" class="col-md-6 col-lg-4">
                 <div class="card forecast-card">
@@ -55,9 +55,6 @@
         </div>
     </div>
 
-    <div th:if="${weatherData == null}" class="alert alert-warning text-center">
-        <p>No weather data available. Please try again later.</p>
-    </div>
 </div>
 
 
